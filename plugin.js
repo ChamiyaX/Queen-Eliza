@@ -7534,10 +7534,10 @@ case 'alive': {
     {buttonId: ` menu `, buttonText: {displayText: 'LIST MENU'}, type: 1}
     ]
     let buttonMessage = {
-    image: { url: `https://telegra.ph/file/e4c0e7eb7441a534e735e.jpg` },
+    image: { url: `https://files.fm/f/dgx2ub33y` },
     caption: `QUEEN ELIZA ＷＨＡＴＳＡＰＰ ＢＯＴ
    *🤖Runtime: ${runtime(process.uptime())}*
-      Created by Queen-Eliza owner Chamidu
+      \n\nCreated by Queen-Eliza owner Chamidu
 `,
     footer: `${global.botname}`,
     buttons: buttons,
