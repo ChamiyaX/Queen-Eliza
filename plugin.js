@@ -6336,7 +6336,7 @@ let buttonMessage = {
 image: {url: `https://pps.whatsapp.net/v/t61.24694-24/321181181_168858575856725_862666054410577068_n.jpg?ccb=11-4&oh=01_AdT066V_4JbuGq_E5Pdrf03hnVMDxto71BqS_aThh9WLGw&oe=63E1CB9F`},
 jpegThumbnail: log0,
 caption: teks,
-footer: `©Qᴜᴇᴇɴ-x \n ᴡᴀᴛꜱᴀᴘᴘ \n ᴜꜱᴇʀ ʙᴏᴛ`,
+footer: `©Qᴜᴇᴇɴ-Eliza \n ᴡᴀᴛꜱᴀᴘᴘ \n ᴜꜱᴇʀ ʙᴏᴛ`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -7520,12 +7520,7 @@ break
 case 'tqtt': 
 throw `SpecialThanks ❤️
 
-Coden : Nimesh Official
-Bot Owner : Yuresh Kavindu
-CANEL : Cyber Lakiya
-
-*QUEEN-X SUPPORT GROUP*
-https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7
+Coden : Gimhan C Rathnayake
 
 *BOT LINK*
 https://github.com/ChamiyaX/Queen-Eliza.git`
@@ -7540,19 +7535,13 @@ case 'alive': {
     ]
     let buttonMessage = {
     image: { url: `https://telegra.ph/file/e4c0e7eb7441a534e735e.jpg` },
-    caption: `💭QＵＥＥＮ-Ｘ ＷＨＡＴＳＡＰＰ ＢＯＴ
+    caption: `QUEEN ELIZA ＷＨＡＴＳＡＰＰ ＢＯＴ
    *🤖Runtime: ${runtime(process.uptime())}*
-    👽 Created by Queen-x owner Yuresh
+    Created by Queen-Eliza owner Chamidu
 
     Install Bot link▽
 
-    https://github.com/ChamiyaX/Queen-Eliza.git
-   
-    Join Bot Support Group🔧 
-   
-    https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7
-   
-    ® ᴄᴏᴅᴇᴅ ʙʏ Qᴜᴇᴇɴ-x ᴏᴡɴᴇʀ ʏᴜʀᴇꜱʜ`,
+    https://github.com/ChamiyaX/Queen-Eliza.git',
    
     footer: `${global.botname}`,
     buttons: buttons,
@@ -7562,9 +7551,9 @@ case 'alive': {
     }
     break    
            case 'menu': {
-           XeonBotInc.sendMessage(from, { react: { text: `📜️`, key: m.key }})
+           XeonBotInc.sendMessage(from, { react: { text: `📜`, key: m.key }})
 	const sections = [{
-								"title": "☆QUEEN-X WATSAPP USER BOT COMMANDS LIST☆",
+								"title": " 😎QUEEN-ELIZA COMMANDS LIST😎 ",
 								"rows": [
 									{
 										"title": "◁ OTHER COMMANDS MENU ▷",
@@ -7620,8 +7609,8 @@ case 'alive': {
 							}
 						]
 const listMessage = {
-  text: "◀ＱＵＥＥＮ-Ｘ ＢＯＴ▶ \n*🤖W H A T S A P P  U S E R  B O T  P A N E L📜*",
-  footer: `©Queen-x watsapp user bot\nTIME ️ : ${xtime}\nDATE : ${xdate}`,
+  text: "◀Q U E E N - E L I Z A▶ \n*W H A T S A P P  U S E R  B O T  P A N E L*",
+  footer: `©Qᴜᴇᴇɴ-Elizawatsapp user bot\nTIME ️ : ${xtime}\nDATE : ${xdate}`,
   title: `Hi 👋 ${pushname}`,
   buttonText: "Menu",
   sections
