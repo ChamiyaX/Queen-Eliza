@@ -7620,7 +7620,7 @@ case 'alive': {
 							}
 						]
 const listMessage = {
-  text: "*☆★ＱＵＥＥＮ-Ｘ ＢＯＴ★☆* \n*🤖W H A T S A P P  U S E R  B O T  P A N E L📜*",
+  text: "◀ＱＵＥＥＮ-Ｘ ＢＯＴ▶ \n*🤖W H A T S A P P  U S E R  B O T  P A N E L📜*",
   footer: `©Queen-x watsapp user bot\nTIME ️ : ${xtime}\nDATE : ${xdate}`,
   title: `Hi 👋 ${pushname}`,
   buttonText: "Menu",
@@ -7644,7 +7644,7 @@ const buttonMessage = {
     
 *♕ QUEEN-X COMMANDS PANEL ♕*
 
-*☆★ DOWNLOAD COMMANDS ★☆*
+◀ DOWNLOAD COMMANDS ▶
 
 💢. tiktok [url]
 💢. tiktokaudio [url]
@@ -7655,7 +7655,7 @@ const buttonMessage = {
 💢. ytmp4 [url|quality]
 💢 . gitclone [repo link]
 
-*☆★ SEARCH COMMANDS ★☆*
+◀ SEARCH COMMANDS ▶
 
 💢. play [query]
 💢. song [query]
@@ -7676,7 +7676,7 @@ const buttonMessage = {
 💢. ytsearch [query]
 💢. ringtone [query]
 
-*☆★ OTHER COMMANDS ★☆*
+◀ OTHER COMMANDS ▶
 
 💢.  self
 💢.  public
@@ -7694,7 +7694,7 @@ const buttonMessage = {
 💢.  block [tag/number]
 💢.  unblock [tag/number]
 
-*☆★ GROUP COMMANDS ★☆*
+◀ GROUP COMMANDS ▶
 💢. grouplink
 💢. ephemeral [option]
 💢. setgcpp [image]
@@ -7730,7 +7730,7 @@ const buttonMessage = {
 💢. checkvote
 💢. delvote
 
-*☆★ LOGO COMMANDS ★☆*
+◀ LOGO COMMANDS ▶
 
 💢. candy
 💢. blackpinkneon
@@ -7834,7 +7834,7 @@ const buttonMessage = {
 💢.  watercolor
 💢.  classic
 
-*☆★ CONVETER COMMANDS ★☆*
+◀ CONVETER COMMANDS ▶
 
 💢.  toimage [reply stick]
 💢.  sticker [reply img|gif]
@@ -7864,11 +7864,11 @@ const buttonMessage = {
 💢. smooth [reply aud]
 💢. squirrel [reply aud]
 
-*☆★ REMOVE BG PHOTO EDIT ★☆*
+◀ REMOVE BG PHOTO EDIT ▶
 
 💢. removebg [reply img]
 
-*☆★ RENDOM COMMANDS ★☆*
+◀ RENDOM COMMANDS ▶
 
 💢. coffee
 💢. woof
@@ -7908,7 +7908,7 @@ const buttonMessage = {
 💢. wallphone
 💢. wallml
 
-*☆★ VIDEO COMMANDS ★☆*
+◀ VIDEO COMMANDS ▶
 
 💢. tiktokgirl	
 💢. tiktoknukhty
@@ -7919,7 +7919,7 @@ const buttonMessage = {
 💢. tiktoksantuy
 💢. tiktokbocil
 
-*☆★ EMOTE COMMANDS ★☆*
+◀ EMOTE COMMANDS ▶
 
 💢. instagramemoji
 💢. facebookemoji
@@ -7934,7 +7934,7 @@ const buttonMessage = {
 💢. pediaemoji
 💢. microsoftemoji
 
-*☆★ ANIME COMMANDS ★☆*
+◀ ANIME COMMANDS ▶
 
 💢. animeneko
 💢. waifu
@@ -7988,7 +7988,7 @@ const buttonMessage = {
 💢. animewall [query]
 💢. animewall2 [query]
 
-*☆★ STECKER COMMANDS ★☆*
+◀ STECKER COMMANDS ▶
 
 💢.  patrick
 💢.  emoji
@@ -8002,7 +8002,7 @@ const buttonMessage = {
 💢.  cartoon
 💢.  stickman
 
-*☆★ STICKER COMMNDS ★☆*
+◀ STICKER COMMNDS ▶
 
 💢. loli
 💢. bully
@@ -8034,7 +8034,7 @@ const buttonMessage = {
 💢. neko
 💢. gura
 
-*☆★ NSFW COMMANDS ★☆*
+◀ NSFW COMMANDS ▶
 
 💢. gifhentai
 💢. gifblowjob
@@ -8072,7 +8072,7 @@ const buttonMessage = {
 💢. yuri
 💢. zettai
 
-*☆★ FUN COMMANDS ★☆*
+◀ FUN COMMANDS ▶
 💢.  say [text]
 💢.  define [text]
 💢.  how [text
@@ -8149,7 +8149,7 @@ const buttonMessage = {
 💢.  playgirl
 💢.  quotes
 
-*☆★ SOUND COMMANDS ★☆*
+◀ SOUND COMMANDS ▶
 💢.  sound1
 💢.  sound2
 💢.  sound3
@@ -8312,7 +8312,7 @@ const buttonMessage = {
 💢.  sound160
 💢.  sound161
 
-*☆★ GAME COMMANDS ★☆*
+◀ GAME COMMANDS ▶
 
 💢.  truth
 💢.  dare
@@ -8322,14 +8322,14 @@ const buttonMessage = {
 💢.  math [mode]
 💢.  suitpvp [tag]
 
- *☆★ ANONIMUS CHAT ★☆*
+ ◀ ANONIMUS CHAT ▶
 
 💢. anonymous
 💢. start
 💢. next
 💢. leave
 
-*☆★ DATABASE COMMANDS ★☆*
+◀ DATABASE COMMANDS ▶
 
 💢.  setcmd
 💢.  listcmd
@@ -8340,7 +8340,7 @@ const buttonMessage = {
 💢.  getmsg
 💢.  delmsg
 
-*☆★ OTHER COMMANDS ☆★*
+◀ OTHER COMMANDS ☆★*
 
 💢.  afk
 💢.  id
@@ -8363,7 +8363,7 @@ const buttonMessage = {
 💢.  request
 💢.  report [bug]
 
-*☆★ BUG CAMMANDS ★☆*
+◀ BUG CAMMANDS ▶
  
 💢. pcbut [number]
 💢. pcvn [number]
@@ -8477,7 +8477,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `*☆★ DOWNLOAD COMMANDS  MENU ★☆*
+    caption: `◀ DOWNLOAD COMMANDS  MENU ▶
 💢tiktokk [url]
 💢tiktokaudio [url]
 💢instagram [url]
@@ -8502,7 +8502,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `*☆★ SEARCH COMMANDS  MENU ★☆*
+    caption: `◀ SEARCH COMMANDS  MENU ▶
 💢. play [query]
 💢. song [query]
 💢. yts [query]
@@ -8761,7 +8761,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `*☆★ LOGO COMMANDS  MENU ★☆*
+    caption: `◀ LOGO COMMANDS  MENU ▶
 💢. candy
 💢. blackpinkneon
 💢. deepsea
@@ -8907,7 +8907,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: ` *☆★ OTHER CAMAND&GROUP MENU ★☆*
+    caption: ` ◀ OTHER CAMAND&GROUP MENU ▶
 💢afk
 💢id
 💢toqr [link]
@@ -8928,7 +8928,7 @@ const buttonMessage = {
 💢request
 💢report [bug]
 
-*☆★GROUP COMMANDS  LIST★☆*
+◀GROUP COMMANDS  LIST▶
 
 💢grouplink
 💢ephemeral [option]
@@ -8981,7 +8981,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `*☆★ BUG COMMANDS  MENU ★☆*
+    caption: `◀ BUG COMMANDS  MENU ▶
 🔫 pcut [number]
 🔫 pcvn [number]
 🔫 pcstick [number]
