@@ -7518,7 +7518,7 @@ break
 //------------------------The End----------------------\\
 
 case 'tqtt': 
-throw `SpecialThanks ❤️
+throw `Special Thanks To me❤️
 
 Coden : Gimhan C Rathnayake
 
