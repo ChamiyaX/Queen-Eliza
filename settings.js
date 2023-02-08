@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ" //ur owner name
-global.ytname = "ʏᴜʀᴇꜱʜ" //ur yt chanel name
-global.socialm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['94767184785'] //ur owner number
+global.ownername = "CHAMIDU GIMHAN" //ur owner name
+global.ytname = "no" //ur yt chanel name
+global.socialm = "ChamiyaX" //ur github or insta name
+global.location = "Sri Lanka" //ur location
 
 //bot bomdy 
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = '©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
+global.ownernomer = "94767184785" //ur number
+global.premium = ['94767184785'] //ur premium number
+global.botname = '©Qᴜᴇᴇɴ ᴇʟɪᴢᴀ ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
+global.linkz = "https://wa.me/qr/RYCX4CFIRGC6K1" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
-global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark packname
-global.author = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻." //ur watermark
+global.botscript = 'https://github.com/ChamiyaX/Queen-Eliza.git' //script link
+global.themeemoji = "💢" //ur theme emoji
+global.packname = "   Qᴜᴇᴇɴ ᴇʟɪᴢᴀ" //ur sticker watermark packname
+global.author = "   Qᴜᴇᴇɴ ᴇʟɪᴢᴀ\n\n\nA whatsapp bot developed by\nCHAMIDU" //ur sticker watermark author
+global.wm = "Qᴜᴇᴇɴ ᴇʟɪᴢᴀ." //ur watermark
 
 // Other
 global.sessionName = 'session'
