@@ -7616,7 +7616,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, listMessage)
 break
             case 'allmenu':{
             XeonBotInc.sendMessage(from, { react: { text: `✅`, key: m.key }})
-var unicorn = await getBuffer(picak+'Queen-x All Menu')
+var unicorn = await getBuffer(picak+'Queen-Eliza All Menu')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'GITHUB LINK'}, type: 1},
@@ -7627,7 +7627,7 @@ const buttonMessage = {
     image: unicorn,
     caption: `
     
-*♕ QUEEN ELIZA COMMANDS PANEL ♕*
+
 
 ◀ DOWNLOAD COMMANDS ▶
 
