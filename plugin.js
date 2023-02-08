@@ -1885,7 +1885,7 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
             let ytslagu = require("youtube-yts")
             let lagusearch = await ytslagu(text)
             listSerch = []
-            teskd = `*👽 Created by Queen-x owner Yuresh Searched Song:* ${text}\n`
+            teskd = `*👽 Created by QUEEN ELIZA owner Yuresh Searched Song:* ${text}\n`
             for (let i of lagusearch.all) {
                 listSerch.push({
                     title: i.title,
@@ -7642,756 +7642,756 @@ const buttonMessage = {
     image: unicorn,
     caption: `
     
-*♕ QUEEN-X COMMANDS PANEL ♕*
+*♕ QUEEN ELIZA COMMANDS PANEL ♕*
 
 ◀ DOWNLOAD COMMANDS ▶
 
-🟣. tiktok [url]
-🟣. tiktokaudio [url]
-🟣. instagram [url]
-🟣. spotify [url]
-🟣. mediafire [url]
-🟣. ytmp3 [url|quality]
-🟣. ytmp4 [url|quality]
-🟣 . gitclone [repo link]
+📌. tiktok [url]
+📌. tiktokaudio [url]
+📌. instagram [url]
+📌. spotify [url]
+📌. mediafire [url]
+📌. ytmp3 [url|quality]
+📌. ytmp4 [url|quality]
+📌 . gitclone [repo link]
 
 ◀ SEARCH COMMANDS ▶
 
-🟣. play [query]
-🟣. song [query]
-🟣. yts [query]
-🟣. lyrics [query]
-🟣. gimage [query]
-🟣. google [query]
-🟣. anime [query]
-🟣. pinterest [query]
-🟣. image [query]
-🟣. wallpaper [query]
-🟣. searchno [number]
-🟣. horoscope [query]
-🟣. imdb [movie name]
-🟣. weather [loc name]
-🟣. genshin [char name]
-🟣. wikimedia [query]
-🟣. ytsearch [query]
-🟣. ringtone [query]
+📌. play [query]
+📌. song [query]
+📌. yts [query]
+📌. lyrics [query]
+📌. gimage [query]
+📌. google [query]
+📌. anime [query]
+📌. pinterest [query]
+📌. image [query]
+📌. wallpaper [query]
+📌. searchno [number]
+📌. horoscope [query]
+📌. imdb [movie name]
+📌. weather [loc name]
+📌. genshin [char name]
+📌. wikimedia [query]
+📌. ytsearch [query]
+📌. ringtone [query]
 
 ◀ OTHER COMMANDS ▶
 
-🟣.  self
-🟣.  public
-🟣.  join [link]
-🟣.  leavegc
-🟣.  setbio
-🟣.  bctext [text]
-🟣.  bcimage [reply img/text]
-🟣.  bcvideo [reply img/text]
-🟣.  setbotpp [image]
-🟣.  setthumb [reply img]
-🟣.  setexif
-🟣.  hijack
-🟣.  creategroup [name]
-🟣.  block [tag/number]
-🟣.  unblock [tag/number]
+📌.  self
+📌.  public
+📌.  join [link]
+📌.  leavegc
+📌.  setbio
+📌.  bctext [text]
+📌.  bcimage [reply img/text]
+📌.  bcvideo [reply img/text]
+📌.  setbotpp [image]
+📌.  setthumb [reply img]
+📌.  setexif
+📌.  hijack
+📌.  creategroup [name]
+📌.  block [tag/number]
+📌.  unblock [tag/number]
 
 ◀ GROUP COMMANDS ▶
-🟣. grouplink
-🟣. ephemeral [option]
-🟣. setgcpp [image]
-🟣. setname [text]
-🟣. setdesc [text]
-🟣. group 
-🟣. resetgrouplink
-🟣. editinfo [option]
-🟣. menfess [number]
-🟣. add [user]
-🟣. kick [reply/tag]
-🟣. hidetag [text]
-🟣. tagall [text]
-🟣. antilinkgc [on/off]
-🟣. antilinktg [on/off]
-🟣. antilinktt [on/off]
-🟣. antilinkytch [on/off]
-🟣. antilinkytvid [on/off]
-🟣. antilinkig [on/off]
-🟣. antilinkfb [on/off]
-🟣. antilinktwit [on/off]
-🟣. antilinkall [on/off]
-🟣. antivirus [on/off]
-🟣. antitoxic [on/off]
-🟣. antiwame [on/off]
-🟣. nsfw [on/off]
-🟣. promote [reply/tag]
-🟣. demote [reply/tag]
-🟣. react [reply emoji]
-🟣. vote
-🟣. devote
-🟣. upvote
-🟣. checkvote
-🟣. delvote
+📌. grouplink
+📌. ephemeral [option]
+📌. setgcpp [image]
+📌. setname [text]
+📌. setdesc [text]
+📌. group 
+📌. resetgrouplink
+📌. editinfo [option]
+📌. menfess [number]
+📌. add [user]
+📌. kick [reply/tag]
+📌. hidetag [text]
+📌. tagall [text]
+📌. antilinkgc [on/off]
+📌. antilinktg [on/off]
+📌. antilinktt [on/off]
+📌. antilinkytch [on/off]
+📌. antilinkytvid [on/off]
+📌. antilinkig [on/off]
+📌. antilinkfb [on/off]
+📌. antilinktwit [on/off]
+📌. antilinkall [on/off]
+📌. antivirus [on/off]
+📌. antitoxic [on/off]
+📌. antiwame [on/off]
+📌. nsfw [on/off]
+📌. promote [reply/tag]
+📌. demote [reply/tag]
+📌. react [reply emoji]
+📌. vote
+📌. devote
+📌. upvote
+📌. checkvote
+📌. delvote
 
 ◀ LOGO COMMANDS ▶
 
-🟣. candy
-🟣. blackpinkneon
-🟣. deepsea
-🟣. scifi
-🟣. fiction
-🟣. berry
-🟣. fruitjuice
-🟣. biscuit
-🟣. wood
-🟣. chocolate
-🟣. matrix
-🟣. blood
-🟣. halloween
-🟣. wicker
-🟣. darkgold
-🟣. firework
-🟣. skeleton
-🟣. sand
-🟣. glue
-🟣. leaves
-🟣. magma
-🟣. lava
-🟣. rockart
-🟣. bloodglas
-🟣. underwater
-🟣. textmaker
-🟣. honey
-🟣. ice
-🟣. watercolor
-🟣. multicolor
-🟣. snow
-🟣. harrypot
-🟣. harrypotter
-🟣. brokenglass
-🟣. waterpipe
-🟣. spooky
-🟣. circuit
-🟣. metallic
-🟣. demon
-🟣. sparklechristmas
-🟣. christmas
-🟣. 3dchristmas
-🟣. 3dbox
-🟣. waterdrop
-🟣. lion2
-🟣. papercut
-🟣. transformer
-🟣. neondevil
-🟣. 3davengers
-🟣. 3dstone
-🟣. 3dstone2
-🟣. summertime
-🟣. thunder
-🟣. window
-🟣. graffiti
-🟣. graffitibike
-🟣. pornhub
-🟣. glitch
-🟣. blackpinkart
-🟣. glitch2
-🟣. glitch3
-🟣. 3dspace
-🟣. lion
-🟣. 3dneon
-🟣. greenneon
-🟣. bokeh
-🟣. holographic
-🟣. bear
-🟣. wolf
-🟣. joker
-🟣. dropwater
-🟣. dropwater2
-🟣. thewall
-🟣. neonlight
-🟣. natural
-🟣. carbon
-🟣. pencil
-🟣. blackpink2
-🟣. neon
-🟣. neonlight2
-🟣. toxic
-🟣. strawberry
-🟣. discovery
-🟣. 1917
-🟣.  sci_fi
-🟣.  ancient
-🟣.  fabric
-🟣.  hoorror
-🟣.  whitebear
-🟣.  juice
-🟣.  batman
-🟣.  multicolor
-🟣.  wonderful
-🟣.  sketch
-🟣.  marvel
-🟣.  foggy
-🟣.  writing
-🟣.  halloweenfire
-🟣.  halloween
-🟣.  watercolor
-🟣.  classic
+📌. candy
+📌. blackpinkneon
+📌. deepsea
+📌. scifi
+📌. fiction
+📌. berry
+📌. fruitjuice
+📌. biscuit
+📌. wood
+📌. chocolate
+📌. matrix
+📌. blood
+📌. halloween
+📌. wicker
+📌. darkgold
+📌. firework
+📌. skeleton
+📌. sand
+📌. glue
+📌. leaves
+📌. magma
+📌. lava
+📌. rockart
+📌. bloodglas
+📌. underwater
+📌. textmaker
+📌. honey
+📌. ice
+📌. watercolor
+📌. multicolor
+📌. snow
+📌. harrypot
+📌. harrypotter
+📌. brokenglass
+📌. waterpipe
+📌. spooky
+📌. circuit
+📌. metallic
+📌. demon
+📌. sparklechristmas
+📌. christmas
+📌. 3dchristmas
+📌. 3dbox
+📌. waterdrop
+📌. lion2
+📌. papercut
+📌. transformer
+📌. neondevil
+📌. 3davengers
+📌. 3dstone
+📌. 3dstone2
+📌. summertime
+📌. thunder
+📌. window
+📌. graffiti
+📌. graffitibike
+📌. pornhub
+📌. glitch
+📌. blackpinkart
+📌. glitch2
+📌. glitch3
+📌. 3dspace
+📌. lion
+📌. 3dneon
+📌. greenneon
+📌. bokeh
+📌. holographic
+📌. bear
+📌. wolf
+📌. joker
+📌. dropwater
+📌. dropwater2
+📌. thewall
+📌. neonlight
+📌. natural
+📌. carbon
+📌. pencil
+📌. blackpink2
+📌. neon
+📌. neonlight2
+📌. toxic
+📌. strawberry
+📌. discovery
+📌. 1917
+📌.  sci_fi
+📌.  ancient
+📌.  fabric
+📌.  hoorror
+📌.  whitebear
+📌.  juice
+📌.  batman
+📌.  multicolor
+📌.  wonderful
+📌.  sketch
+📌.  marvel
+📌.  foggy
+📌.  writing
+📌.  halloweenfire
+📌.  halloween
+📌.  watercolor
+📌.  classic
 
 ◀ CONVETER COMMANDS ▶
 
-🟣.  toimage [reply stick]
-🟣.  sticker [reply img|gif]
-🟣.  take [reply img|gif|stik]
-🟣.  smeme [reply img]
-🟣.  emoji [emoji]
-🟣.  tovideo [reply img]
-🟣.  togif [reply stick]
-🟣.  tovn [reply aud]
-🟣.  tomp3 [reply vn]
-🟣.  toaudio [reply vid]
-🟣.  ebinary [reply txt]
-🟣.  dbinary [reply txt]
-🟣.  tinyurl [link]
-🟣.  styletext [text]
-🟣. volume [reply aud]
-🟣. bass [reply aud]
-🟣. blown [reply aud]
-🟣. deep [reply aud]
-🟣. earrape [reply aud]
-🟣. fast [reply aud]
-🟣. fat [reply aud]
-🟣. nightcore [reply aud]
-🟣. reverse [reply aud]
-🟣. robot [reply aud]
-🟣. slow [reply aud]
-🟣. smooth [reply aud]
-🟣. squirrel [reply aud]
+📌.  toimage [reply stick]
+📌.  sticker [reply img|gif]
+📌.  take [reply img|gif|stik]
+📌.  smeme [reply img]
+📌.  emoji [emoji]
+📌.  tovideo [reply img]
+📌.  togif [reply stick]
+📌.  tovn [reply aud]
+📌.  tomp3 [reply vn]
+📌.  toaudio [reply vid]
+📌.  ebinary [reply txt]
+📌.  dbinary [reply txt]
+📌.  tinyurl [link]
+📌.  styletext [text]
+📌. volume [reply aud]
+📌. bass [reply aud]
+📌. blown [reply aud]
+📌. deep [reply aud]
+📌. earrape [reply aud]
+📌. fast [reply aud]
+📌. fat [reply aud]
+📌. nightcore [reply aud]
+📌. reverse [reply aud]
+📌. robot [reply aud]
+📌. slow [reply aud]
+📌. smooth [reply aud]
+📌. squirrel [reply aud]
 
 ◀ REMOVE BG PHOTO EDIT ▶
 
-🟣. removebg [reply img]
+📌. removebg [reply img]
 
 ◀ RENDOM COMMANDS ▶
 
-🟣. coffee
-🟣. woof
-🟣. meow
-🟣. lizard
-🟣. chinese
-🟣. japanese
-🟣. korean
-🟣. indo
-🟣. thai
-🟣. vietnamese
-🟣. malay
-🟣. hijab
-🟣. randomgirl
-🟣. randomboy
-🟣. aesthetic
-🟣. antiwork
-🟣. cosplay
-🟣. car
-🟣. bike
-🟣. doggo
-🟣. cat
-🟣. notnot
-🟣. kayes
-🟣. justina
-🟣. ryujin
-🟣. boneka
-🟣. rose
-🟣. kpop
-🟣. blackpink
-🟣. ulzzangboy
-🟣. ulzzanggirl
-🟣. pubg
-🟣. hacking
-🟣. profilepicture
-🟣. couplepicture
-🟣. wallphone
-🟣. wallml
+📌. coffee
+📌. woof
+📌. meow
+📌. lizard
+📌. chinese
+📌. japanese
+📌. korean
+📌. indo
+📌. thai
+📌. vietnamese
+📌. malay
+📌. hijab
+📌. randomgirl
+📌. randomboy
+📌. aesthetic
+📌. antiwork
+📌. cosplay
+📌. car
+📌. bike
+📌. doggo
+📌. cat
+📌. notnot
+📌. kayes
+📌. justina
+📌. ryujin
+📌. boneka
+📌. rose
+📌. kpop
+📌. blackpink
+📌. ulzzangboy
+📌. ulzzanggirl
+📌. pubg
+📌. hacking
+📌. profilepicture
+📌. couplepicture
+📌. wallphone
+📌. wallml
 
 ◀ VIDEO COMMANDS ▶
 
-🟣. tiktokgirl	
-🟣. tiktoknukhty
-🟣. tiktokpanrika
-🟣. tiktokkayes
-🟣. tiktoknotnot
-🟣. tiktokghea
-🟣. tiktoksantuy
-🟣. tiktokbocil
+📌. tiktokgirl	
+📌. tiktoknukhty
+📌. tiktokpanrika
+📌. tiktokkayes
+📌. tiktoknotnot
+📌. tiktokghea
+📌. tiktoksantuy
+📌. tiktokbocil
 
 ◀ EMOTE COMMANDS ▶
 
-🟣. instagramemoji
-🟣. facebookemoji
-🟣. iphoneemoji
-🟣. samsungemoji
-🟣. joyemoji
-🟣. skypeemoji
-🟣. twitteremoji
-🟣. whatsappemoji
-🟣. microsoftemoji
-🟣. googleemoji
-🟣. pediaemoji
-🟣. microsoftemoji
+📌. instagramemoji
+📌. facebookemoji
+📌. iphoneemoji
+📌. samsungemoji
+📌. joyemoji
+📌. skypeemoji
+📌. twitteremoji
+📌. whatsappemoji
+📌. microsoftemoji
+📌. googleemoji
+📌. pediaemoji
+📌. microsoftemoji
 
 ◀ ANIME COMMANDS ▶
 
-🟣. animeneko
-🟣. waifu
-🟣. animewaifu
-🟣. animeawoo
-🟣. shinobu
-🟣. foxgirl
-🟣. animemegumin
-🟣. loli-waifu
-🟣. 8ball
-🟣. animenom
-🟣. goose
-🟣. avatar
-🟣. tickle
-🟣. gecg
-🟣. feed
-🟣. husbu
-🟣. neko2
-🟣. randomanime
-🟣. shota
-🟣. waifu2
-🟣. animeslap
-🟣. animepat
-🟣. animeneko
-🟣. animekiss
-🟣. animewlp
-🟣. animecuddle
-🟣. animecry
-🟣. animekill
-🟣. animelick
-🟣. animebite
-🟣. animeyeet
-🟣. animebully
-🟣. animebonk
-🟣. animewink
-🟣. animepoke
-🟣. animesmile
-🟣. animewave
-🟣. animeawoo
-🟣. animeblush
-🟣. animesmug
-🟣. animeglomp
-🟣. animehappy
-🟣. animedance
-🟣. animecringe
-🟣. animehighfive
-🟣. animehandhold
-🟣. animemegumin
-🟣. animesmug
-🟣. couplepp
-🟣. animewall [query]
-🟣. animewall2 [query]
+📌. animeneko
+📌. waifu
+📌. animewaifu
+📌. animeawoo
+📌. shinobu
+📌. foxgirl
+📌. animemegumin
+📌. loli-waifu
+📌. 8ball
+📌. animenom
+📌. goose
+📌. avatar
+📌. tickle
+📌. gecg
+📌. feed
+📌. husbu
+📌. neko2
+📌. randomanime
+📌. shota
+📌. waifu2
+📌. animeslap
+📌. animepat
+📌. animeneko
+📌. animekiss
+📌. animewlp
+📌. animecuddle
+📌. animecry
+📌. animekill
+📌. animelick
+📌. animebite
+📌. animeyeet
+📌. animebully
+📌. animebonk
+📌. animewink
+📌. animepoke
+📌. animesmile
+📌. animewave
+📌. animeawoo
+📌. animeblush
+📌. animesmug
+📌. animeglomp
+📌. animehappy
+📌. animedance
+📌. animecringe
+📌. animehighfive
+📌. animehandhold
+📌. animemegumin
+📌. animesmug
+📌. couplepp
+📌. animewall [query]
+📌. animewall2 [query]
 
 ◀ STECKER COMMANDS ▶
 
-🟣.  patrick
-🟣.  emoji
-🟣.  emojimix
-🟣.  doge
-🟣.  lovesticker
-🟣.  animestick
-🟣.  spongebob
-🟣.  gojosatoru
-🟣.  nicholas
-🟣.  cartoon
-🟣.  stickman
+📌.  patrick
+📌.  emoji
+📌.  emojimix
+📌.  doge
+📌.  lovesticker
+📌.  animestick
+📌.  spongebob
+📌.  gojosatoru
+📌.  nicholas
+📌.  cartoon
+📌.  stickman
 
 ◀ STICKER COMMNDS ▶
 
-🟣. loli
-🟣. bully
-🟣. cuddle
-🟣. cry
-🟣. hug
-🟣. awoo
-🟣. kiss
-🟣. lick
-🟣. pat
-🟣. smug
-🟣. bonk
-🟣. yeet
-🟣. blush
-🟣. smile
-🟣. wave
-🟣. highfive
-🟣. handhold
-🟣. nom
-🟣. glomp
-🟣. bite
-🟣. slap
-🟣. kill
-🟣. happy
-🟣. wink
-🟣. poke
-🟣. dance
-🟣. cringe
-🟣. neko
-🟣. gura
+📌. loli
+📌. bully
+📌. cuddle
+📌. cry
+📌. hug
+📌. awoo
+📌. kiss
+📌. lick
+📌. pat
+📌. smug
+📌. bonk
+📌. yeet
+📌. blush
+📌. smile
+📌. wave
+📌. highfive
+📌. handhold
+📌. nom
+📌. glomp
+📌. bite
+📌. slap
+📌. kill
+📌. happy
+📌. wink
+📌. poke
+📌. dance
+📌. cringe
+📌. neko
+📌. gura
 
 ◀ NSFW COMMANDS ▶
 
-🟣. gifhentai
-🟣. gifblowjob
-🟣. hentaivideo
-🟣. hneko
-🟣. nwaifu
-🟣. animespank
-🟣. trap
-🟣. gasm
-🟣. ahegao
-🟣. ass
-🟣. bdsm
-🟣. blowjob
-🟣. cuckold
-🟣. cum
-🟣. milf
-🟣. eba
-🟣. ero
-🟣. femdom
-🟣. foot
-🟣. gangbang
-🟣. glasses
-🟣. hentai
-🟣. jahy
-🟣. manga
-🟣. masturbation
-🟣. neko-hentai
-🟣. neko-hentai2
-🟣. nsfwloli
-🟣. orgy
-🟣. panties
-🟣. pussy
-🟣. tentacles
-🟣. thights
-🟣. yuri
-🟣. zettai
+📌. gifhentai
+📌. gifblowjob
+📌. hentaivideo
+📌. hneko
+📌. nwaifu
+📌. animespank
+📌. trap
+📌. gasm
+📌. ahegao
+📌. ass
+📌. bdsm
+📌. blowjob
+📌. cuckold
+📌. cum
+📌. milf
+📌. eba
+📌. ero
+📌. femdom
+📌. foot
+📌. gangbang
+📌. glasses
+📌. hentai
+📌. jahy
+📌. manga
+📌. masturbation
+📌. neko-hentai
+📌. neko-hentai2
+📌. nsfwloli
+📌. orgy
+📌. panties
+📌. pussy
+📌. tentacles
+📌. thights
+📌. yuri
+📌. zettai
 
 ◀ FUN COMMANDS ▶
-🟣.  say [text]
-🟣.  define [text]
-🟣.  how [text
-🟣.  when [text]
-🟣.  where [text]
-🟣.  is [text]
-🟣.  what [text]
-🟣.  can [text]
-🟣.  rate [text]
-🟣.  coolcheck [tag]
-🟣.  stupidcheck [tag]
-🟣.  waifucheck [tag]
-🟣.  evilcheck [tag]
-🟣.  dogcheck [tag]
-🟣.  hotcheck [tag]
-🟣.  smartcheck [tag]
-🟣.  uncleancheck [tag]
-🟣.  greatcheck [tag]
-🟣.  beautifulcheck [tag]
-🟣.  awesomecheck [tag]
-🟣.  prettycheck [tag]
-🟣.  lesbiancheck [tag]
-🟣.  gaycheck [tag]
-🟣.  cutecheck [tag]
-🟣.  uglycheck [tag]
-🟣.  hornycheck [tag]
-🟣.  charactercheck [tag]
-🟣.  lovelycheck [tag]
-🟣.  couple
-🟣.  soulmate
-🟣.  hot
-🟣.  sexy
-🟣.  kind
-🟣.  idiot
-🟣.  handsome
-🟣.  beautiful
-🟣.  cute
-🟣.  pretty
-🟣.  lesbian
-🟣.  noob
-🟣.  bastard
-🟣.  foolish
-🟣.  nerd
-🟣.  asshole
-🟣.  gay
-🟣.  smart
-🟣.  stubble
-🟣.  dog
-🟣.  horny
-🟣.  cunt
-🟣.  wibu
-🟣.  noobra
-🟣.  nibba
-🟣.  nibbi
-🟣.  comrade
-🟣.  mumu
-🟣.  rascal
-🟣.  scumbag
-🟣.  nuts
-🟣.  fagot
-🟣.  scoundrel
-🟣.  ditch
-🟣.  dope
-🟣.  gucci
-🟣.  lit
-🟣.  dumbass
-🟣.  crackhead
-🟣.  mf
-🟣.  motherfucker
-🟣.  sucker
-🟣.  .  fuckboy
-🟣.  playboy
-🟣.  fuckgirl
-🟣.  playgirl
-🟣.  quotes
+📌.  say [text]
+📌.  define [text]
+📌.  how [text
+📌.  when [text]
+📌.  where [text]
+📌.  is [text]
+📌.  what [text]
+📌.  can [text]
+📌.  rate [text]
+📌.  coolcheck [tag]
+📌.  stupidcheck [tag]
+📌.  waifucheck [tag]
+📌.  evilcheck [tag]
+📌.  dogcheck [tag]
+📌.  hotcheck [tag]
+📌.  smartcheck [tag]
+📌.  uncleancheck [tag]
+📌.  greatcheck [tag]
+📌.  beautifulcheck [tag]
+📌.  awesomecheck [tag]
+📌.  prettycheck [tag]
+📌.  lesbiancheck [tag]
+📌.  gaycheck [tag]
+📌.  cutecheck [tag]
+📌.  uglycheck [tag]
+📌.  hornycheck [tag]
+📌.  charactercheck [tag]
+📌.  lovelycheck [tag]
+📌.  couple
+📌.  soulmate
+📌.  hot
+📌.  sexy
+📌.  kind
+📌.  idiot
+📌.  handsome
+📌.  beautiful
+📌.  cute
+📌.  pretty
+📌.  lesbian
+📌.  noob
+📌.  bastard
+📌.  foolish
+📌.  nerd
+📌.  asshole
+📌.  gay
+📌.  smart
+📌.  stubble
+📌.  dog
+📌.  horny
+📌.  cunt
+📌.  wibu
+📌.  noobra
+📌.  nibba
+📌.  nibbi
+📌.  comrade
+📌.  mumu
+📌.  rascal
+📌.  scumbag
+📌.  nuts
+📌.  fagot
+📌.  scoundrel
+📌.  ditch
+📌.  dope
+📌.  gucci
+📌.  lit
+📌.  dumbass
+📌.  crackhead
+📌.  mf
+📌.  motherfucker
+📌.  sucker
+📌.  .  fuckboy
+📌.  playboy
+📌.  fuckgirl
+📌.  playgirl
+📌.  quotes
 
 ◀ SOUND COMMANDS ▶
-🟣.  sound1
-🟣.  sound2
-🟣.  sound3
-🟣.  sound4
-🟣.  sound5
-🟣.  sound6
-🟣.  sound7
-🟣.  sound8
-🟣.  sound9
-🟣.  sound10
-🟣.  sound11
-🟣.  sound12
-🟣.  sound13
-🟣.  sound14
-🟣.  sound15
-🟣.  sound16
-🟣.  sound17
-🟣.  sound18
-🟣.  sound19
-🟣.  sound20
-🟣.  sound21
-🟣.  sound22
-🟣.  sound23
-🟣.  sound24
-🟣.  sound25
-🟣.  sound26
-🟣.  sound27
-🟣.  sound28
-🟣.  sound29
-🟣.  sound30
-🟣.  sound31
-🟣.  sound32
-🟣.  sound33
-🟣.  sound34
-🟣.  sound35
-🟣.  sound36
-🟣.  sound37
-🟣.  sound38
-🟣.  sound39
-🟣.  sound40
-🟣.  sound41
-🟣.  sound42
-🟣.  sound43
-🟣.  sound44
-🟣.  sound45
-🟣.  sound46
-🟣.  sound47
-🟣.  sound48
-🟣.  sound49
-🟣.  sound50
-🟣.  sound51
-🟣.  sound52
-🟣.  sound53
-🟣.  sound54
-🟣.  sound55
-🟣.  sound56
-🟣.  sound57
-🟣.  sound58
-🟣.  sound59
-🟣.  sound60
-🟣.  sound61
-🟣.  sound62
-🟣.  sound63
-🟣.  sound64
-🟣.  sound65
-🟣.  sound66
-🟣.  sound67
-🟣.  sound68
-🟣.  sound69
-🟣.  sound70
-🟣.  sound71
-🟣.  sound72
-🟣.  sound73
-🟣.  sound74
-🟣.  sound75
-🟣.  sound76
-🟣.  sound77
-🟣.  sound78
-🟣.  sound79
-🟣.  sound80
-🟣.  sound81
-🟣.  sound82
-🟣.  sound83
-🟣.  sound84
-🟣.  sound85
-🟣.  sound86
-🟣.  sound87
-🟣.  sound88
-🟣.  sound89
-🟣.  sound90
-🟣.  sound91
-🟣.  sound92
-🟣.  sound93
-🟣.  sound94
-🟣.  sound95
-🟣.  sound96
-🟣.  sound97
-🟣.  sound98
-🟣.  sound99
-🟣.  sound100
-🟣.  sound101
-🟣.  sound102
-🟣.  sound103
-🟣.  sound104
-🟣.  sound105
-🟣.  sound106
-🟣.  sound107
-🟣.  sound108
-🟣.  sound109
-🟣.  sound110
-🟣.  sound111
-🟣.  sound112
-🟣.  sound113
-🟣.  sound114
-🟣.  sound115
-🟣.  sound116
-🟣.  sound117
-🟣.  sound118
-🟣.  sound119
-🟣.  sound120
-🟣.  sound121
-🟣.  sound122
-🟣.  sound123
-🟣.  sound124
-🟣.  sound125
-🟣.  sound126
-🟣.  sound127
-🟣.  sound128
-🟣.  sound129
-🟣.  sound130
-🟣.  sound131
-🟣.  sound132
-🟣.  sound133
-🟣.  sound134
-🟣.  sound135
-🟣.  sound136
-🟣.  sound137
-🟣.  sound138
-🟣.  sound139
-🟣.  sound140
-🟣.  sound141
-🟣.  sound142
-🟣.  sound143
-🟣.  sound144
-🟣.  sound145
-🟣.  sound146
-🟣.  sound147
-🟣.  sound148
-🟣.  sound149
-🟣.  sound150
-🟣.  sound151
-🟣.  sound152
-🟣.  sound153
-🟣.  sound154
-🟣.  sound155
-🟣.  sound156
-🟣.  sound157
-🟣.  sound158
-🟣.  sound159
-🟣.  sound160
-🟣.  sound161
+📌.  sound1
+📌.  sound2
+📌.  sound3
+📌.  sound4
+📌.  sound5
+📌.  sound6
+📌.  sound7
+📌.  sound8
+📌.  sound9
+📌.  sound10
+📌.  sound11
+📌.  sound12
+📌.  sound13
+📌.  sound14
+📌.  sound15
+📌.  sound16
+📌.  sound17
+📌.  sound18
+📌.  sound19
+📌.  sound20
+📌.  sound21
+📌.  sound22
+📌.  sound23
+📌.  sound24
+📌.  sound25
+📌.  sound26
+📌.  sound27
+📌.  sound28
+📌.  sound29
+📌.  sound30
+📌.  sound31
+📌.  sound32
+📌.  sound33
+📌.  sound34
+📌.  sound35
+📌.  sound36
+📌.  sound37
+📌.  sound38
+📌.  sound39
+📌.  sound40
+📌.  sound41
+📌.  sound42
+📌.  sound43
+📌.  sound44
+📌.  sound45
+📌.  sound46
+📌.  sound47
+📌.  sound48
+📌.  sound49
+📌.  sound50
+📌.  sound51
+📌.  sound52
+📌.  sound53
+📌.  sound54
+📌.  sound55
+📌.  sound56
+📌.  sound57
+📌.  sound58
+📌.  sound59
+📌.  sound60
+📌.  sound61
+📌.  sound62
+📌.  sound63
+📌.  sound64
+📌.  sound65
+📌.  sound66
+📌.  sound67
+📌.  sound68
+📌.  sound69
+📌.  sound70
+📌.  sound71
+📌.  sound72
+📌.  sound73
+📌.  sound74
+📌.  sound75
+📌.  sound76
+📌.  sound77
+📌.  sound78
+📌.  sound79
+📌.  sound80
+📌.  sound81
+📌.  sound82
+📌.  sound83
+📌.  sound84
+📌.  sound85
+📌.  sound86
+📌.  sound87
+📌.  sound88
+📌.  sound89
+📌.  sound90
+📌.  sound91
+📌.  sound92
+📌.  sound93
+📌.  sound94
+📌.  sound95
+📌.  sound96
+📌.  sound97
+📌.  sound98
+📌.  sound99
+📌.  sound100
+📌.  sound101
+📌.  sound102
+📌.  sound103
+📌.  sound104
+📌.  sound105
+📌.  sound106
+📌.  sound107
+📌.  sound108
+📌.  sound109
+📌.  sound110
+📌.  sound111
+📌.  sound112
+📌.  sound113
+📌.  sound114
+📌.  sound115
+📌.  sound116
+📌.  sound117
+📌.  sound118
+📌.  sound119
+📌.  sound120
+📌.  sound121
+📌.  sound122
+📌.  sound123
+📌.  sound124
+📌.  sound125
+📌.  sound126
+📌.  sound127
+📌.  sound128
+📌.  sound129
+📌.  sound130
+📌.  sound131
+📌.  sound132
+📌.  sound133
+📌.  sound134
+📌.  sound135
+📌.  sound136
+📌.  sound137
+📌.  sound138
+📌.  sound139
+📌.  sound140
+📌.  sound141
+📌.  sound142
+📌.  sound143
+📌.  sound144
+📌.  sound145
+📌.  sound146
+📌.  sound147
+📌.  sound148
+📌.  sound149
+📌.  sound150
+📌.  sound151
+📌.  sound152
+📌.  sound153
+📌.  sound154
+📌.  sound155
+📌.  sound156
+📌.  sound157
+📌.  sound158
+📌.  sound159
+📌.  sound160
+📌.  sound161
 
 ◀ GAME COMMANDS ▶
 
-🟣.  truth
-🟣.  dare
-🟣.  tictactoe
-🟣.  delttt
-🟣.  guess [option]
-🟣.  math [mode]
-🟣.  suitpvp [tag]
+📌.  truth
+📌.  dare
+📌.  tictactoe
+📌.  delttt
+📌.  guess [option]
+📌.  math [mode]
+📌.  suitpvp [tag]
 
  ◀ ANONIMUS CHAT ▶
 
-🟣. anonymous
-🟣. start
-🟣. next
-🟣. leave
+📌. anonymous
+📌. start
+📌. next
+📌. leave
 
 ◀ DATABASE COMMANDS ▶
 
-🟣.  setcmd
-🟣.  listcmd
-🟣.  delcmd
-🟣.  lockcmd
-🟣.  addmsg
-🟣.  listmsg
-🟣.  getmsg
-🟣.  delmsg
+📌.  setcmd
+📌.  listcmd
+📌.  delcmd
+📌.  lockcmd
+📌.  addmsg
+📌.  listmsg
+📌.  getmsg
+📌.  delmsg
 
 ◀ OTHER COMMANDS ☆★*
 
-🟣.  afk
-🟣.  id
-🟣.  toqr [link]
-🟣.  repeat
-🟣.  readmore [text]
-🟣.  toviewonce
-🟣.  fliptext [text]]
-🟣.  chatinfo
-🟣.  alive
-🟣.  script
-🟣.  ping
-🟣.  owner
-🟣.  menu
-🟣.  delete
-🟣.  quoted
-🟣.  listpc
-🟣.  listgc
-🟣.  donate
-🟣.  request
-🟣.  report [bug]
+📌.  afk
+📌.  id
+📌.  toqr [link]
+📌.  repeat
+📌.  readmore [text]
+📌.  toviewonce
+📌.  fliptext [text]]
+📌.  chatinfo
+📌.  alive
+📌.  script
+📌.  ping
+📌.  owner
+📌.  menu
+📌.  delete
+📌.  quoted
+📌.  listpc
+📌.  listgc
+📌.  donate
+📌.  request
+📌.  report [bug]
 
 ◀ BUG CAMMANDS ▶
  
-🟣. pcbut [number]
-🟣. pcvn [number]
-🟣. pcstick [number]
-🟣. pcfast [number]
-🟣. pcslow [number]
-🟣. pcbunny [number]
-🟣. xcrasher [amount]
-🟣. pccontact [amount]
-🟣. virtex5 [amount]
-🟣. flower [amount]
-🟣. pollbug [amount]
-🟣. catalogbug [amount]
-🟣. trollybug [amount]
-🟣. trollybug2 [amount]
-🟣. gcslow
-🟣. gcfast
-🟣. gcbunny
-🟣. tagallbug
-🟣. vnbug [amount]
-🟣. docbug [amount]
-🟣. pcgcslow [number]
-🟣. pcgcfast [number]
-🟣. pcgcbunny [number]
-🟣. textshot
-🟣. docfuck [amount]
-🟣. docsoft [amount]
-🟣. docsoft2 [amount]
+📌. pcbut [number]
+📌. pcvn [number]
+📌. pcstick [number]
+📌. pcfast [number]
+📌. pcslow [number]
+📌. pcbunny [number]
+📌. xcrasher [amount]
+📌. pccontact [amount]
+📌. virtex5 [amount]
+📌. flower [amount]
+📌. pollbug [amount]
+📌. catalogbug [amount]
+📌. trollybug [amount]
+📌. trollybug2 [amount]
+📌. gcslow
+📌. gcfast
+📌. gcbunny
+📌. tagallbug
+📌. vnbug [amount]
+📌. docbug [amount]
+📌. pcgcslow [number]
+📌. pcgcfast [number]
+📌. pcgcbunny [number]
+📌. textshot
+📌. docfuck [amount]
+📌. docsoft [amount]
+📌. docsoft2 [amount]
 |__________________`,
     footer: `${botname}`,
     buttons: buttons,
@@ -8432,7 +8432,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'groupmenu':{
-var unicorn = await getBuffer(picak+'Queen-x Group Menu')
+var unicorn = await getBuffer(picak+'QUEEN ELIZA Group Menu')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'GITHUB LINK'}, type: 1},
@@ -8468,7 +8468,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'downloadmenu':{
-var unicorn = await getBuffer(picak+'Queen-x Download Menu')
+var unicorn = await getBuffer(picak+'QUEEN ELIZA Download Menu')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'GITHUB LINK'}, type: 1},
@@ -8478,13 +8478,13 @@ const buttons = [
 const buttonMessage = {
     image: unicorn,
     caption: `◀ DOWNLOAD COMMANDS  MENU ▶
-🟣tiktokk [url]
-🟣tiktokaudio [url]
-🟣instagram [url]
-🟣spotify [url]
-🟣mediafire [url]
-🟣ytmp3 [url|quality]
-🟣ytmp4 [url|quality]!`,
+📌tiktokk [url]
+📌tiktokaudio [url]
+📌instagram [url]
+📌spotify [url]
+📌mediafire [url]
+📌ytmp3 [url|quality]
+📌ytmp4 [url|quality]!`,
     footer: `${botname}`,
     buttons: buttons,
     headerType: 4
@@ -8493,7 +8493,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'searchmenu':{
-var unicorn = await getBuffer(picak+'Queen-x Search Menu')
+var unicorn = await getBuffer(picak+'QUEEN ELIZA Search Menu')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'GITHUB LINK'}, type: 1},
@@ -8503,24 +8503,24 @@ const buttons = [
 const buttonMessage = {
     image: unicorn,
     caption: `◀ SEARCH COMMANDS  MENU ▶
-🟣. play [query]
-🟣. song [query]
-🟣. yts [query]
-🟣. lyrics [query]
-🟣. gimage [query]
-🟣. google [query]
-🟣. anime [query]
-🟣. pinterest [query]
-🟣. image [query]
-🟣. wallpaper [query]
-🟣. searchno [number]
-🟣. horoscope [query]
-🟣. imdb [movie name]
-🟣. weather [loc name]
-🟣. genshin [char name]
-🟣. wikimedia [query]
-🟣. ytsearch [query]
-🟣. ringtone [query]•`,
+📌. play [query]
+📌. song [query]
+📌. yts [query]
+📌. lyrics [query]
+📌. gimage [query]
+📌. google [query]
+📌. anime [query]
+📌. pinterest [query]
+📌. image [query]
+📌. wallpaper [query]
+📌. searchno [number]
+📌. horoscope [query]
+📌. imdb [movie name]
+📌. weather [loc name]
+📌. genshin [char name]
+📌. wikimedia [query]
+📌. ytsearch [query]
+📌. ringtone [query]•`,
     buttons: buttons,
     headerType: 4
 }
@@ -8528,7 +8528,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'convertmenu':{
-var unicorn = await getBuffer(picak+'Queen-x Convert Menu')
+var unicorn = await getBuffer(picak+'QUEEN ELIZA Convert Menu')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'GITHUB LINK'}, type: 1},
@@ -8752,7 +8752,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'anonymousmenu':{
-var unicorn = await getBuffer(picak+'Queen-x logo Menu')
+var unicorn = await getBuffer(picak+'QUEEN ELIZA logo Menu')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'GITHUB LINK'}, type: 1},
@@ -8762,107 +8762,107 @@ const buttons = [
 const buttonMessage = {
     image: unicorn,
     caption: `◀ LOGO COMMANDS  MENU ▶
-🟣. candy
-🟣. blackpinkneon
-🟣. deepsea
-🟣. scifi
-🟣. fiction
-🟣. berry
-🟣. fruitjuice
-🟣. biscuit
-🟣. wood
-🟣. chocolate
-🟣. matrix
-🟣. blood
-🟣. halloween
-🟣. wicker
-🟣. darkgold
-🟣. firework
-🟣. skeleton
-🟣. sand
-🟣. glue
-🟣. leaves
-🟣. magma
-🟣. lava
-🟣. rockart
-🟣. bloodglas
-🟣. underwater
-🟣. textmaker
-🟣. honey
-🟣. ice
-🟣. watercolor
-🟣. multicolor
-🟣. snow
-🟣. harrypot
-🟣. harrypotter
-🟣. brokenglass
-🟣. waterpipe
-🟣. spooky
-🟣. circuit
-🟣. metallic
-🟣. demon
-🟣. sparklechristmas
-🟣. christmas
-🟣. 3dchristmas
-🟣. 3dbox
-🟣. waterdrop
-🟣. lion2
-🟣. papercut
-🟣. transformer
-🟣. neondevil
-🟣. 3davengers
-🟣. 3dstone
-🟣. 3dstone2
-🟣. summertime
-🟣. thunder
-🟣. window
-🟣. graffiti
-🟣. graffitibike
-🟣. pornhub
-🟣. glitch
-🟣. blackpinkart
-🟣. glitch2
-🟣. glitch3
-🟣. 3dspace
-🟣. lion
-🟣. 3dneon
-🟣. greenneon
-🟣. bokeh
-🟣. holographic
-🟣. bear
-🟣. wolf
-🟣. joker
-🟣. dropwater
-🟣. dropwater2
-🟣. thewall
-🟣. neonlight
-🟣. natural
-🟣. carbon
-🟣. pencil
-🟣. blackpink2
-🟣. neon
-🟣. neonlight2
-🟣. toxic
-🟣. strawberry
-🟣. discovery
-🟣. 1917
-🟣.  sci_fi
-🟣.  ancient
-🟣.  fabric
-🟣.  hoorror
-🟣.  whitebear
-🟣.  juice
-🟣.  batman
-🟣.  multicolor
-🟣.  wonderful
-🟣.  sketch
-🟣.  marvel
-🟣.  foggy
-🟣.  writing
-🟣.  halloweenfire
-🟣.  halloween
-🟣.  watercolor
-🟣.  classic`,
+📌. candy
+📌. blackpinkneon
+📌. deepsea
+📌. scifi
+📌. fiction
+📌. berry
+📌. fruitjuice
+📌. biscuit
+📌. wood
+📌. chocolate
+📌. matrix
+📌. blood
+📌. halloween
+📌. wicker
+📌. darkgold
+📌. firework
+📌. skeleton
+📌. sand
+📌. glue
+📌. leaves
+📌. magma
+📌. lava
+📌. rockart
+📌. bloodglas
+📌. underwater
+📌. textmaker
+📌. honey
+📌. ice
+📌. watercolor
+📌. multicolor
+📌. snow
+📌. harrypot
+📌. harrypotter
+📌. brokenglass
+📌. waterpipe
+📌. spooky
+📌. circuit
+📌. metallic
+📌. demon
+📌. sparklechristmas
+📌. christmas
+📌. 3dchristmas
+📌. 3dbox
+📌. waterdrop
+📌. lion2
+📌. papercut
+📌. transformer
+📌. neondevil
+📌. 3davengers
+📌. 3dstone
+📌. 3dstone2
+📌. summertime
+📌. thunder
+📌. window
+📌. graffiti
+📌. graffitibike
+📌. pornhub
+📌. glitch
+📌. blackpinkart
+📌. glitch2
+📌. glitch3
+📌. 3dspace
+📌. lion
+📌. 3dneon
+📌. greenneon
+📌. bokeh
+📌. holographic
+📌. bear
+📌. wolf
+📌. joker
+📌. dropwater
+📌. dropwater2
+📌. thewall
+📌. neonlight
+📌. natural
+📌. carbon
+📌. pencil
+📌. blackpink2
+📌. neon
+📌. neonlight2
+📌. toxic
+📌. strawberry
+📌. discovery
+📌. 1917
+📌.  sci_fi
+📌.  ancient
+📌.  fabric
+📌.  hoorror
+📌.  whitebear
+📌.  juice
+📌.  batman
+📌.  multicolor
+📌.  wonderful
+📌.  sketch
+📌.  marvel
+📌.  foggy
+📌.  writing
+📌.  halloweenfire
+📌.  halloween
+📌.  watercolor
+📌.  classic`,
     footer: `${botname}`,
     buttons: buttons,
     headerType: 4
@@ -8908,62 +8908,62 @@ const buttons = [
 const buttonMessage = {
     image: unicorn,
     caption: ` ◀ OTHER CAMAND&GROUP MENU ▶
-🟣afk
-🟣id
-🟣toqr [link]
-🟣repeat
-🟣readmore [text]
-🟣toviewonce
-🟣fliptext [text]] 
-🟣alive
-🟣script
-🟣ping
-🟣owner
-🟣menu
-🟣delete
-🟣chatinfo
-🟣quoted
-🟣listpc
-🟣listgc
-🟣request
-🟣report [bug]
+📌afk
+📌id
+📌toqr [link]
+📌repeat
+📌readmore [text]
+📌toviewonce
+📌fliptext [text]] 
+📌alive
+📌script
+📌ping
+📌owner
+📌menu
+📌delete
+📌chatinfo
+📌quoted
+📌listpc
+📌listgc
+📌request
+📌report [bug]
 
 ◀GROUP COMMANDS  LIST▶
 
-🟣grouplink
-🟣ephemeral [option]
-🟣setgcpp [image]
-🟣setname [text]
-🟣setdesc [text]
-🟣group 
-🟣resetgrouplink
-🟣editinfo [option]
-🟣menfess [number]
-🟣add [user]
-🟣kick [reply/tag]
-🟣hidetag [text]
-🟣tagall [text]
-🟣antilinkgc [on/off]
-🟣antilinktg [on/off]
-🟣antilinktt [on/off]
-🟣antilinkytch [on/off]
-🟣antilinkytvid [on/off]
-🟣antilinkig [on/off]
-🟣antilinkfb [on/off]
-🟣antilinktwit [on/off]
-🟣antilinkall [on/off]
-🟣antivirus [on/off]
-🟣antitoxic [on/off]
-🟣antiwame [on/off]
-🟣nsfw [on/off]
-🟣promote [reply/tag]
-🟣demote [reply/tag]
-🟣react [reply emoji]
-🟣vote
-🟣devote
-🟣upvote
-🟣checkvote
-🟣delvote`,
+📌grouplink
+📌ephemeral [option]
+📌setgcpp [image]
+📌setname [text]
+📌setdesc [text]
+📌group 
+📌resetgrouplink
+📌editinfo [option]
+📌menfess [number]
+📌add [user]
+📌kick [reply/tag]
+📌hidetag [text]
+📌tagall [text]
+📌antilinkgc [on/off]
+📌antilinktg [on/off]
+📌antilinktt [on/off]
+📌antilinkytch [on/off]
+📌antilinkytvid [on/off]
+📌antilinkig [on/off]
+📌antilinkfb [on/off]
+📌antilinktwit [on/off]
+📌antilinkall [on/off]
+📌antivirus [on/off]
+📌antitoxic [on/off]
+📌antiwame [on/off]
+📌nsfw [on/off]
+📌promote [reply/tag]
+📌demote [reply/tag]
+📌react [reply emoji]
+📌vote
+📌devote
+📌upvote
+📌checkvote
+📌delvote`,
     footer: `${botname}`,
     buttons: buttons,
     headerType: 4
@@ -8972,7 +8972,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'warmenu':{
-var unicorn = await getBuffer(picak+'Queen-x bug Menu')
+var unicorn = await getBuffer(picak+'QUEEN ELIZA bug Menu')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'GITHUB LINK'}, type: 1},
