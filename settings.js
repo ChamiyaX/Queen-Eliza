@@ -24,14 +24,14 @@ global.location = "Sri Lanka" //ur location
 //bot bomdy 
 global.ownernomer = "94767184785" //ur number
 global.premium = ['94767184785'] //ur premium number
-global.botname = '©Qᴜᴇᴇɴ ᴇʟɪᴢᴀ ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
+global.botname = '©Qυҽҽɳ Eʅιȥα ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
 global.linkz = "https://wa.me/qr/RYCX4CFIRGC6K1" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/ChamiyaX/Queen-Eliza.git' //script link
 global.themeemoji = "💢" //ur theme emoji
-global.packname = "   Qᴜᴇᴇɴ ᴇʟɪᴢᴀ" //ur sticker watermark packname
-global.author = "   Qᴜᴇᴇɴ ᴇʟɪᴢᴀ\n\n\nA whatsapp bot developed by\nCHAMIDU" //ur sticker watermark author
-global.wm = "Qᴜᴇᴇɴ ᴇʟɪᴢᴀ." //ur watermark
+global.packname = "   Qυҽҽɳ Eʅιȥα" //ur sticker watermark packname
+global.author = "\n\n\nA whatsapp bot developed by\nCHAMIDU" //ur sticker watermark author
+global.wm = "Qυҽҽɳ Eʅιȥα." //ur watermark
 
 // Other
 global.sessionName = 'session'
