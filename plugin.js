@@ -7537,12 +7537,8 @@ case 'alive': {
     image: { url: `https://telegra.ph/file/e4c0e7eb7441a534e735e.jpg` },
     caption: `QUEEN ELIZA ＷＨＡＴＳＡＰＰ ＢＯＴ
    *🤖Runtime: ${runtime(process.uptime())}*
-    Created by Queen-Eliza owner Chamidu
-
-    Install Bot link▽
-
-    https://github.com/ChamiyaX/Queen-Eliza.git',
-   
+      Created by Queen-Eliza owner Chamidu
+`,
     footer: `${global.botname}`,
     buttons: buttons,
     headerType: 4,
