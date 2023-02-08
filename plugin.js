@@ -7534,7 +7534,7 @@ case 'alive': {
     {buttonId: ` menu `, buttonText: {displayText: 'LIST MENU'}, type: 1}
     ]
     let buttonMessage = {
-    image: { url: `https://i.postimg.cc/bvSZy05b/IMG-20230209-WA0014.jpg` },
+    image: { url: `https://www.linkpicture.com/q/photo_2023-02-09_01-20-32.jpg` },
     caption: `QUEEN ELIZA ＷＨＡＴＳＡＰＰ ＢＯＴ
    \n*🤖Runtime: ${runtime(process.uptime())}*
       \n\nCreated by Queen-Eliza owner Chamidu
