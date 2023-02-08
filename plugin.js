@@ -7610,7 +7610,7 @@ case 'alive': {
 						]
 const listMessage = {
   text: "◀Q U E E N - E L I Z A▶ \n*W H A T S A P P  U S E R  B O T  P A N E L*",
-  footer: `©Qᴜᴇᴇɴ-Elizawatsapp user bot\nTIME ️ : ${xtime}\nDATE : ${xdate}`,
+  footer: `©Qᴜᴇᴇɴ-Eliza watsapp user bot\nTIME : ${xtime}\nDATE : ${xdate}`,
   title: `Hi 👋 ${pushname}`,
   buttonText: "Menu",
   sections
