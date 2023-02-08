@@ -1885,7 +1885,7 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
             let ytslagu = require("youtube-yts")
             let lagusearch = await ytslagu(text)
             listSerch = []
-            teskd = `*👽 Created by QUEEN ELIZA owner Yuresh Searched Song:* ${text}\n`
+            teskd = ` 🎶 *QUEEN ELIZA owner Chamidu Searched Song:* ${text}\n`
             for (let i of lagusearch.all) {
                 listSerch.push({
                     title: i.title,
